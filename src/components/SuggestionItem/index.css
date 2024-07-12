@@ -1,0 +1,21 @@
+/* Write your CSS here */
+
+.icon {
+  cursor: pointer;
+  width: 100%;
+}
+
+.item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.icon-con {
+  width: 30px;
+  height: 50px;
+}
+
+p {
+  font-family: 'Roboto';
+}
